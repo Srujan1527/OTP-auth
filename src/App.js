@@ -19,7 +19,7 @@ function App() {
       console.log(user);
       console.log("user logged in anonymously");
     } catch (err) {
-      console.log("Failed to log in ", err);
+      console.log("Failed  ", err);
     }
   };
 
